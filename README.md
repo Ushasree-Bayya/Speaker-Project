@@ -1,5 +1,7 @@
-🖥️ Speaker Interface – Google Home UI
-📌 Project Overview
+### 🖥️Speaker Interface – Google Home UI
+
+### 📌 Project Overview
+
 This project is a modern, minimalistic Google Home speaker interface designed with a clean layout and vibrant colors. The design emphasizes both visual appeal and usability, offering a sleek UI that showcases product details, features, and price effectively.
 
 ### 📸 Demo Preview
@@ -8,7 +10,8 @@ Here’s a snapshot of the Google Home speaker interface design:
 
 ![Google Home Speaker Interface](image-3.png)
 
-🚀 Features
+### 🚀 Features
+
 🖼️ High-resolution product display (Google Home speaker)
 
 💸 Price highlight with bold visibility
@@ -23,20 +26,19 @@ Here’s a snapshot of the Google Home speaker interface design:
 
 🔠 Creative use of typography and vertical text orientation
 
-🛠️ Technologies Used
+### 🛠️ Technologies Used
+
 HTML
 
 CSS
 
-JavaScript (optional, if used for interactivity)
+JavaScript 
 
-🎯 Objective
+### 🎯 Objective
+
 To design a visually engaging and intuitive product interface suitable for an e-commerce or product showcase website. Focused on combining aesthetic design with user-friendly layout principles.
 
-📁 File Structure
-graphql
-Copy
-Edit
+### 📁 File Structure
 📁 speaker-interface/
 │
 ├── index.html        # Main HTML file
@@ -47,4 +49,4 @@ Edit
 ### 🔍 Live Preview
 
 You can view the live project here:  
-👉 [https://your-project-name.netlify.app](https://your-project-name.netlify.app)
+👉 [https://your-project-name.netlify.app](https://clinquant-kashata-12f940.netlify.app)
